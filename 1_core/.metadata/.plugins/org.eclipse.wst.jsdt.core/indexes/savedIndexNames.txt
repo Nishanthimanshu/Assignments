@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Nishant\assignments\1_core\1_core\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+39959500.index
+2965994174.index
+2841772167.index
+2333512036.index
+1040691460.index
+2451788914.index
+3350497852.index
+701604538.index

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="productwebapp"/>
+<aop-project name="helloworld1"/>
+<aop-project name="productwebapp3(Swagger)"/>
+<aop-project name="productwebapp5(scheduleProcesses)"/>
+<aop-project name="productwebapp4(Caching)"/>
+<aop-project name="helloworld"/>
+<aop-project name="productwebapp2(hateos)"/>
+</aop-reference-model>
